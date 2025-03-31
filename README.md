@@ -21,7 +21,7 @@ SkinToneDetection is a real-time skin tone detection system that identifies a us
 
 ### 1️⃣ Clone the Repository  
 
-git clone https://github.com/SwarupaMasanam19/real-time-skin-tone.git
+git clone https://github.com/SwarupaMasanam19/real-time-skin-tone.git /n
 cd real-time-skin-tone
 
 
