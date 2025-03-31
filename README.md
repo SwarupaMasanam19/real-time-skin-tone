@@ -30,7 +30,9 @@ cd real-time-skin-tone
 ### 2️⃣ Set Up Virtual Environment  
 
 python -m venv myenv
+
 source myenv/bin/activate  # macOS/Linux
+
 myenv\Scripts\activate     # Windows
 
 
